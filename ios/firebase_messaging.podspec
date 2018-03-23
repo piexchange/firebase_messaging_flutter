@@ -23,5 +23,6 @@ Firebase Cloud Messaging plugin for Flutter.
   }
   
   s.ios.deployment_target = '8.0'
+  s.static_framework = true
 end
 
